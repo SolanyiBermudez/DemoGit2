@@ -5,5 +5,7 @@ public class DemoGit2 {
 		
 	
 	System.out.println();
+		
+		System.out.println("Part of pulling");
 	}
 }
